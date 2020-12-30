@@ -20,3 +20,6 @@ pip install instabot
 
 ![carbon](https://user-images.githubusercontent.com/64751167/103367345-bec7bc00-4abc-11eb-96ec-4e65c62da17f.png)
 
+### Support me
+
+> **googlepay:** mckid@ybl <br> >**PayPal:** https://www.paypal.me/Vyshu101
